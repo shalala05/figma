@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto slab', sans-serif;
+    padding: 80px;
+}
+.container{
+    display: flex;
+    padding-bottom: 80px;
+}
+h1{
+    font-size: 55px;
+    width: 500px;
+    height: 93px;
+}
+.article{
+    font-size: 24px;
+    width: 662px;
+    height: 190px;
+}
+.imgbox{
+    width: 290px;
+    height: 302px;
+}
+.miniimg{
+    width: 343px;
+    height: 59px;
+}
+.img{
+    width: 222px;
+    height: 194px;
+}
+.textbox{
+    text-align: start;
+    
+}
+h2{
+    font-size: 25px;
+    width: 150px;
+    height: 39px;
+}
+p{
+    font-size: 18px;
+    width: 150px;
+    height: 39px;
+}
